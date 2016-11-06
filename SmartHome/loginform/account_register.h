@@ -1,0 +1,1 @@
+#ifndef __ACCOUNT_REGISTER__#define __ACCOUNT_REGISTER__int account_register(char *usr_name,char *pass_word); //ÕËºÅ×¢²áº¯Êý#endif

@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>pic_ico/Exit.png</file>
+        <file>pic_ico/GprsMsg.png</file>
+        <file>pic_ico/Led.png</file>
+        <file>pic_ico/Media.png</file>
+        <file>pic_ico/Message.png</file>
+        <file>pic_ico/Setup.png</file>
+        <file>pic_ico/Temperature.png</file>
+        <file>pic_ico/UserMng.png</file>
+        <file>pic_ico/alloff.png</file>
+        <file>pic_ico/allon.png</file>
+        <file>pic_ico/led_1_off.png</file>
+        <file>pic_ico/led_1_on.png</file>
+        <file>pic_ico/led_2_off.png</file>
+        <file>pic_ico/led_2_on.png</file>
+        <file>pic_ico/led_3_off.png</file>
+        <file>pic_ico/led_3_on.png</file>
+        <file>pic_ico/tem.png</file>
+        <file>pic_ico/tem_warn.png</file>
+        <file>pic_ico/wet.png</file>
+        <file>pic_ico/wet_warn.png</file>
+        <file>pic_ico/led_off.png</file>
+        <file>pic_ico/led_on.png</file>
+        <file>pic_ico/house.png</file>
+        <file>pic_ico/routing_turn_u.png</file>
+    </qresource>
+</RCC>
